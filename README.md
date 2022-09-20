@@ -1,5 +1,5 @@
 # Rod_Data_Analysis
-Utiliser les bibliothèques scientifiques de Python : NumPy, Pandas et Matplotlib
+# Utiliser les bibliothèques scientifiques de Python : NumPy, Pandas et Matplotlib
 Maîtriser les tableaux NumPy (lire un dataset, extraire une valeur, extraire un vecteur, extraire une matrice...)
 Analyser des données avec NumPy (effectuer des comparaisons, sélectionner des éléments, remplacer des valeurs, réaliser des calculs mathématiques...)
 Lire un dataset avec Pandas / explorer un DataFrame / Sélectionner une ligne ou une colonne (ou plusieurs)
