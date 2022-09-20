@@ -1,5 +1,5 @@
 # Rod_Data_Analysis
-##### à travers ce cours j'ai appris à:
+##### Dans ce cours j'ai appris à:
 
 ###### Utiliser les bibliothèques scientifiques de Python : NumPy, Pandas et Matplotlib
 ###### Maîtriser les tableaux NumPy (lire un dataset, extraire une valeur, extraire un vecteur, extraire une matrice...)
